@@ -1,0 +1,7 @@
+pandas
+matplotlib
+numpy
+statsmodels
+openpyxl
+
+# openpyxl is needed to read .xlsx files using pandas.read_excel().
