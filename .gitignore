@@ -1,0 +1,22 @@
+# Ignore Excel data files
+*.xlsx
+*.xls
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment/config files
+.env
+.DS_Store
+
+# VSCode config
+.vscode/
+
+# Mac OS system files
+*.DS_Store
+
+Add .gitignore to exclude data files and temp folders
